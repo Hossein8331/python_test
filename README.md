@@ -7,4 +7,6 @@ we will learn
 - git init
 - git status
 - git commit -m ''
-- git log --oneline 
+- git log --oneline
+- git push
+- git pull
